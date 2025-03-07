@@ -1,5 +1,5 @@
 <p align="center">
-   ## ヾ(⌐■_■)ノ♪
+    ヾ(⌐■_■)ノ♪
     </p>
 <p align="center">
     <img src=
@@ -20,5 +20,4 @@
          <p align='center'>
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.
          </p>
-    
   
